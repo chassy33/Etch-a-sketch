@@ -1,0 +1,46 @@
+
+
+.heading {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+p {
+    margin: 5px auto;
+    text-align: center;
+    font-size: 22px;
+}
+
+.buttons {
+    margin: 8px auto;
+    width: 500px;
+}
+
+.btn {
+    border-radius: 5px;
+    padding: 5px 8px;
+    margin: 26px;
+}
+
+.container {
+    border: 3px solid black;
+    height: 500px;
+    width: 500px;
+    margin: 10px auto;
+        
+}
+
+.tile {
+    float: left;
+    
+}
+
+.colorTile {
+    background-color: black;
+}
+
+div .blankTile {
+    background-color: white;
+}
+
