@@ -23,6 +23,19 @@ p {
     margin: 26px;
 }
 
+.erase {
+    margin-right: 35px;
+}
+
+#colorPicker {
+    font-size: 15px;
+    display: inline;
+}
+
+#yourColor {
+    margin-left: 8px;
+}
+
 .container {
     border: 3px solid black;
     height: 500px;
@@ -36,11 +49,15 @@ p {
     
 }
 
+/*
 .colorTile {
     background-color: black;
 }
 
-div .blankTile {
+.blankTile {
     background-color: white;
 }
+*/
+
+
 
